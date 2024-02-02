@@ -1,0 +1,10 @@
+button, button:focus, button:focus-visible {
+    appearance: none;
+    outline: none;
+    border: none;
+    background: none;
+}
+
+button:hover {
+    opacity: 0.6;
+}
